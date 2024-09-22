@@ -140,7 +140,6 @@ This will launch the server at `http://localhost:8000`.
 ## Contact
 
 For any questions or inquiries, feel free to contact the repository owner [Anubhav Tripathi](https://github.com/anubhavtripathi0509) 8104083562.
-```
 
 
-## AIMathsTutor
+### AIMathsTutor
