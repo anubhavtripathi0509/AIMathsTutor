@@ -78,15 +78,15 @@ npm run dev
 
 
 ```markdown
-# Backend
+### Backend
 
-## Key Features
+### Key Features
 
 - **FastAPI** for building high-performance RESTful APIs.
 - **Gemini API** integration to handle specific operations.
 - **Python** with dependencies managed via `requirements.txt`.
 
-## Getting Started
+### Getting Started
 
 Follow these steps to set up and run the backend locally.
 
