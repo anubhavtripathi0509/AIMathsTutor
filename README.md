@@ -57,4 +57,15 @@ export default tseslint.config({
   },
 })
 ```
+
+
+```js
+// Install the dependencies
+npm
+```
+
+```js
+
+```
+
 # AIMathsTutor
