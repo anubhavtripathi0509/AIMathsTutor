@@ -1,11 +1,16 @@
 # React + TypeScript + Vite + FastAPI
 
+### Installation
 
-# Frontend
+1. Clone the repository:
 
-## Navigate to frontend directory
+```bash
+git clone https://github.com/anubhavtripathi0509/AIMathsTutor.git
+```
 
-```js
+2. Navigate to the frontend directory:
+
+```bash
 cd frontend
 ```
 
@@ -58,15 +63,85 @@ export default tseslint.config({
 })
 ```
 
+3. Install the dependencies:
 
 ```js
-// Install the dependencies
 npm install
 ```
 
+4. Run the Frontend
+
 ```js
-// Run the Frontend
 npm run dev
 ```
 
-# AIMathsTutor
+
+
+```markdown
+# Backend
+
+## Key Features
+
+- **FastAPI** for building high-performance RESTful APIs.
+- **Gemini API** integration to handle specific operations.
+- **Python** with dependencies managed via `requirements.txt`.
+
+## Getting Started
+
+Follow these steps to set up and run the backend locally.
+
+### Prerequisites
+
+Ensure you have **Python** and **pip** installed.
+
+### Installation
+1. Open one more powershell for backend
+
+2. Navigate to the backend directory:
+
+```bash
+cd backend
+```
+
+### Environment Setup
+
+1. Create a `.env` file in the `backend` directory:
+
+```bash
+touch .env
+```
+
+2. Add your **Gemini API Key** to the `.env` file:
+
+```plaintext
+GEMINI_API_KEY=your_gemini_api_key_here
+```
+
+Replace `your_gemini_api_key_here` with your actual API key.
+
+### Install Dependencies
+
+Install the necessary Python packages by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Running the Backend
+
+To start the FastAPI server, run:
+
+```bash
+python main.py
+```
+
+This will launch the server at `http://localhost:8000`.
+
+
+## Contact
+
+For any questions or inquiries, feel free to contact the repository owner [Anubhav Tripathi](https://github.com/anubhavtripathi0509) 8104083562.
+```
+
+
+## AIMathsTutor
