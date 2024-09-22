@@ -3,6 +3,8 @@
 
 # Frontend
 
+## Navigate to frontend directory
+
 ```js
 cd frontend
 ```
